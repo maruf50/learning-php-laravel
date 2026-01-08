@@ -5,8 +5,8 @@ Learning PHP and Laravel in a "Study Together" method
 - Starting / Revising PHP and then moving to Laravel framework
 
 # # contributors
-- b1tranger &rarr; [Repo](https://github.com/b1tranger/learning-php-laravel) (Parent)
-- Maruf &rarr; [Repo](https://github.com/maruf50/learning-php-laravel)
+- [b1tranger](https://github.com/b1tranger) &rarr; [Repo](https://github.com/b1tranger/learning-php-laravel) (Parent)
+- [Maruf](https://github.com/maruf50/) &rarr; [Repo](https://github.com/maruf50/learning-php-laravel)
 - Nelo Angelo (pending)
 
 <br><br><br><br><br><br><br><br><br>
