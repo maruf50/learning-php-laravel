@@ -12,7 +12,7 @@ Learning PHP and Laravel in a "Study Together" method
 # # contributors
 - [b1tranger](https://github.com/b1tranger) &rarr; [Repo](https://github.com/b1tranger/learning-php-laravel) (Parent)
 - [Maruf](https://github.com/maruf50/) &rarr; [Repo](https://github.com/maruf50/learning-php-laravel)
-- Nelo Angelo (pending)
+- [Ahammed Abdali](https://github.com/ahktek) (pending)
 
 <br><br><br><br><br><br><br><br><br>
 
