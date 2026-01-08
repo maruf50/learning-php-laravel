@@ -6,7 +6,7 @@ Learning PHP and Laravel in a "Study Together" method
 
 # # contributors
 - b1tranger
-- Maruf $rarr; https://github.com/maruf50/learning-php-laravel
+- Maruf &rarr; https://github.com/maruf50/learning-php-laravel
 - Nelo Angelo (pending)
 
 <br><br><br><br><br><br><br><br><br>
