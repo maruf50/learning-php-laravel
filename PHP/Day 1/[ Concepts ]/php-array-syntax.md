@@ -46,7 +46,7 @@ if (isset($_POST['submit'])) {
 
 If you are building a tool that runs in the terminal, you can capture a string and convert it into an array.
 
-#### **Using `explode()**`
+#### **Using `explode()`**
 
 You can ask the user to provide a list separated by commas and then split that string into an array.
 
@@ -65,6 +65,26 @@ print_r($name_array);
 ?>
 
 ```
+
+**Using Blank space as separator:**
+
+```
+
+<?php
+echo "Enter names separated by commas: ";
+$input = readline(); // Get the raw string
+
+// Convert the string into an array
+$name_array = explode(" ", $input);
+
+// Clean up whitespace from each entry
+$name_array = array_map('trim', $name_array);
+
+print_r($name_array);
+?>
+
+```
+
 
 ---
 
