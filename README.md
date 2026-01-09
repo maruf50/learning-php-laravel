@@ -7,6 +7,7 @@ Learning PHP and Laravel in a "Study Together" method
 - Solving problems (online judge) using PHP CLI
 
 # # resources
+- setup: [BoostMyTool/How to Run PHP Using Visual Studio Code](https://youtu.be/Ry8tRRfxxf4)
 - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
 - [learn.php.md](https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8)
 - [PHP Roadmap (AI gen)](https://github.com/b1tranger/learning-php-laravel/blob/main/PHP/Day%201/roadmap-php.md) &rarr; better https://roadmap.sh/php &larr; https://roadmap.sh/laravel
