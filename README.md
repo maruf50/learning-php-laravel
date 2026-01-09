@@ -4,6 +4,7 @@ Learning PHP and Laravel in a "Study Together" method
 
 # # purpose
 - Starting / Revising PHP and then moving to Laravel framework
+- Solving problems (online judge) using PHP CLI
 
 # # resources
 - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
